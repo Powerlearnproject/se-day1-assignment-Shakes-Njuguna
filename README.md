@@ -7,10 +7,10 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineerig is a process of designing,developing,testing,deploying and maintaining software applications.
 Importance of Software Engineering 
-1. Enhances Efficiency and Automation - This includes ERP systems and CRM softawares.
-2. Enables innovation and digital transformation SE powers modern technologir=es like Artificial Intelligence, cloud computing and block chain,revolutionizing industries such as finance, healthcare and education
-3. Enhances Scalability and reliability - Well structured and engineered softwares can handle alot of users without crashing. Some industry examples includes Amazon and netflix which servrs global audiences.
-4. Improves security and data protection - Cyber security is a critical part of software engineering ensuring protection against cyber threats and data breaches and hacking attempts
+1. Enhances Efficiency and Automation - This includes ERP systems and CRM software.
+2. Enables innovation and digital transformation. SE powers modern technologies like Artificial Intelligence, cloud computing and blockchain,revolutionizing industries such as finance, healthcare, and education
+3. Enhances Scalability and reliability—Well-structured and engineered software can handle a lot of users without crashing. Some industry examples include Amazon and Netflix, which serve global audiences.
+4. Improves security and data protection - Cybersecurity is a critical part of software engineering ensuring protection against cyber threats and data breaches and hacking attempts
 5. Drive smart Technologies and IoT - From smart homes to self driving cars SE integrates AI and IoT to enhance daily life.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
